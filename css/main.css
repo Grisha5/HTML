@@ -1,0 +1,65 @@
+ /**************************
+GENERAL
+ ***************************/
+
+#wrapper {
+	max-width: 940px;
+	margin: 0 auto;
+	padding: 0 5%;
+}
+
+a {
+	text-decoration: none;
+	color: #6ab47b;
+}
+
+ /**************************
+HEADING
+ ***************************/
+
+#logo {
+	text-align: center;
+	margin: 0;
+}
+
+ /**************************
+COLORS
+ ***************************/
+
+body {
+	background: #fff;
+	color: #999;
+}
+
+header {
+	background: #6ab47b;
+	border-color: #599a68;
+}
+
+h1, h2 {
+	color: #fff;
+}
+
+h3 {
+	text-align: center;
+}
+
+nav {
+	background: #599a68;
+}
+
+nav a, nav a:visited {
+	color: #fff;
+}
+
+nav a.selected, nav a:hover {
+	color: #32673f;
+}
+
+ /**************************
+FONTS
+ ***************************/
+
+ul {
+    list-style-type: none;
+}
